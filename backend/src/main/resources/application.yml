@@ -1,0 +1,11 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: gym-booking-system
+
+gym:
+  booking:
+    max-no-show: 1
+    ban-duration-days: 7
